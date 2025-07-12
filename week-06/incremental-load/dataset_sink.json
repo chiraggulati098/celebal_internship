@@ -1,0 +1,21 @@
+{
+  "name": "FilteredOutputDataset",
+  "properties": {
+    "linkedServiceName": {
+      "referenceName": "AzureBlobStorage_LinkedService",
+      "type": "LinkedServiceReference"
+    },
+    "type": "Json",
+    "typeProperties": {
+      "location": {
+        "type": "AzureBlobStorageLocation",
+        "container": "raw-data",
+        "fileName": "filtered_data.json"
+      },
+      "formatSettings": {
+        "type": "JsonWriteSettings",
+        "filePattern": "setOfObjects"
+      }
+    }
+  }
+}

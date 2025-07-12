@@ -1,0 +1,17 @@
+{
+  "name": "BlobSink_Readme",
+  "properties": {
+    "linkedServiceName": {
+      "referenceName": "AzureBlobStorage_LinkedService",
+      "type": "LinkedServiceReference"
+    },
+    "type": "Binary",
+    "typeProperties": {
+      "location": {
+        "type": "AzureBlobStorageLocation",
+        "container": "raw-data",
+        "fileName": "ftp_readme_copy.txt"
+      }
+    }
+  }
+}

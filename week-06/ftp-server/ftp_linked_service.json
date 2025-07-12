@@ -1,0 +1,16 @@
+{
+  "name": "FTP_LinkedService",
+  "properties": {
+    "type": "FtpServer",
+    "typeProperties": {
+      "host": "ftp://test.rebex.net",
+      "port": 21,
+      "authenticationType": "Basic",
+      "userName": "demo",
+      "password": {
+        "type": "SecureString",
+        "value": "password"
+      }
+    }
+  }
+}

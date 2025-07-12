@@ -1,0 +1,19 @@
+{
+  "name": "IncrementalSourceDataset",
+  "properties": {
+    "linkedServiceName": {
+      "referenceName": "AzureBlobStorage_LinkedService",
+      "type": "LinkedServiceReference"
+    },
+    "type": "DelimitedText",
+    "typeProperties": {
+      "location": {
+        "type": "AzureBlobStorageLocation",
+        "container": "raw-data",
+        "fileName": "local_data.csv"
+      },
+      "columnDelimiter": ",",
+      "firstRowAsHeader": true
+    }
+  }
+}

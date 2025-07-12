@@ -1,0 +1,16 @@
+{
+  "name": "FTP_Readme_Dataset",
+  "properties": {
+    "linkedServiceName": {
+      "referenceName": "FTP_LinkedService",
+      "type": "LinkedServiceReference"
+    },
+    "type": "Binary",
+    "typeProperties": {
+      "location": {
+        "type": "FtpServerLocation",
+        "filePath": "pub/example/readme.txt"
+      }
+    }
+  }
+}

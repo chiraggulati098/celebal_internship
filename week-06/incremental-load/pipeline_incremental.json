@@ -1,0 +1,77 @@
+{
+  "name": "IncrementalLoadPipeline",
+  "properties": {
+    "parameters": {
+      "watermark": {
+        "type": "String",
+        "defaultValue": "2025-07-11T00:00:00"
+      }
+    },
+    "activities": [
+      {
+        "name": "LookupSourceData",
+        "type": "Lookup",
+        "typeProperties": {
+          "source": {
+            "type": "DelimitedTextSource"
+          },
+          "dataset": {
+            "referenceName": "IncrementalSourceDataset",
+            "type": "DatasetReference"
+          },
+          "firstRowOnly": false
+        }
+      },
+      {
+        "name": "FilterNewRecords",
+        "type": "Filter",
+        "dependsOn": [
+          {
+            "activity": "LookupSourceData",
+            "dependencyConditions": ["Succeeded"]
+          }
+        ],
+        "typeProperties": {
+          "items": {
+            "value": "@activity('LookupSourceData').output.value",
+            "type": "Expression"
+          },
+          "condition": {
+            "value": "@greater(item().last_updated, pipeline().parameters.watermark)",
+            "type": "Expression"
+          }
+        }
+      },
+      {
+        "name": "WriteFilteredToBlob",
+        "type": "Copy",
+        "dependsOn": [
+          {
+            "activity": "FilterNewRecords",
+            "dependencyConditions": ["Succeeded"]
+          }
+        ],
+        "inputs": [
+          {
+            "referenceName": "IncrementalSourceDataset",
+            "type": "DatasetReference"
+          }
+        ],
+        "outputs": [
+          {
+            "referenceName": "FilteredOutputDataset",
+            "type": "DatasetReference"
+          }
+        ],
+        "typeProperties": {
+          "source": {
+            "type": "JsonSource"
+          },
+          "sink": {
+            "type": "JsonSink"
+          }
+        }
+      }
+    ]
+  }
+}

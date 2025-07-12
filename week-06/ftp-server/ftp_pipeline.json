@@ -1,0 +1,31 @@
+{
+  "name": "CopyFTPToBlobPipeline",
+  "properties": {
+    "activities": [
+      {
+        "name": "CopyFromFTPToBlob",
+        "type": "Copy",
+        "inputs": [
+          {
+            "referenceName": "FTP_Readme_Dataset",
+            "type": "DatasetReference"
+          }
+        ],
+        "outputs": [
+          {
+            "referenceName": "BlobSink_Readme",
+            "type": "DatasetReference"
+          }
+        ],
+        "typeProperties": {
+          "source": {
+            "type": "BinarySource"
+          },
+          "sink": {
+            "type": "BinarySink"
+          }
+        }
+      }
+    ]
+  }
+}
