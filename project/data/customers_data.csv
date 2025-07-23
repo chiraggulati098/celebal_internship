@@ -1,0 +1,501 @@
+customer_id,first_name,last_name,email,phone,address,city,state,zip_code,age,registration_date,total_orders,total_spent,customer_status
+CUST00001,Helen,Anderson,customer1@email.com,251-485-8588,5601 Main St,Los Angeles,IL,67246,74,2023-07-27,6,149.72,Premium
+CUST00002,Elizabeth,Hernandez,customer2@email.com,265-166-2724,5621 Main St,Phoenix,OH,62824,18,2025-04-14,38,3067.78,Inactive
+CUST00003,Amanda,Rodriguez,customer3@email.com,754-214-7731,6831 Park Blvd,San Jose,GA,57714,49,2024-08-26,2,3158.6,Premium
+CUST00004,Elizabeth,Miller,customer4@email.com,540-934-4931,1717 Oak Ave,San Jose,OH,72599,69,2023-09-25,27,3989.49,Inactive
+CUST00005,Sarah,Martinez,customer5@email.com,993-737-5879,2313 Oak Ave,Fort Worth,WA,12242,25,2023-02-28,50,4246.6,Active
+CUST00006,Matthew,Martin,customer6@email.com,665-249-1081,4019 Elm Dr,Phoenix,GA,64841,37,2024-03-17,27,2573.4,Active
+CUST00007,William,Jackson,customer7@email.com,316-990-5456,693 Pine Rd,Philadelphia,IL,78581,47,2023-01-22,32,2489.04,Active
+CUST00008,Robert,Garcia,customer8@email.com,894-181-7480,4347 Park Blvd,Phoenix,TX,68340,30,2025-01-12,6,809.63,Premium
+CUST00009,Michelle,Gonzalez,customer9@email.com,651-728-6330,3987 Pine Rd,San Jose,NY,32576,27,2025-06-13,22,702.75,Inactive
+CUST00010,Ashley,Martinez,customer10@email.com,901-116-4896,4488 Park Blvd,Columbus,NJ,46775,55,2024-07-28,10,3871.04,Premium
+CUST00011,Michael,Smith,customer11@email.com,904-206-7731,1658 Park Blvd,San Antonio,CA,83189,47,2025-01-23,19,2359.7,Inactive
+CUST00012,Helen,Martin,customer12@email.com,635-251-1940,2237 Elm Dr,San Diego,FL,95202,22,2023-12-18,41,1984.24,Premium
+CUST00013,Helen,Garcia,customer13@email.com,636-364-5891,6720 Pine Rd,Columbus,NY,80358,77,2024-09-18,28,185.52,Inactive
+CUST00014,Emily,Hernandez,customer14@email.com,460-251-9802,4162 Pine Rd,San Francisco,NY,10934,59,2024-12-04,33,3010.05,Inactive
+CUST00015,Chris,Wilson,customer15@email.com,799-914-4263,7354 Main St,Los Angeles,IL,97516,47,2023-06-21,12,4167.83,Inactive
+CUST00016,Robert,Williams,customer16@email.com,130-151-3913,6370 Main St,San Francisco,MA,71872,19,2024-11-27,12,2669.37,Premium
+CUST00017,John,Gonzalez,customer17@email.com,424-632-6254,950 Elm Dr,Houston,NJ,16961,38,2024-11-24,17,2701.32,Active
+CUST00018,Lisa,Martinez,customer18@email.com,197-319-4885,4625 Pine Rd,Columbus,MA,67964,22,2024-12-23,42,3700.03,Active
+CUST00019,Lisa,Jones,customer19@email.com,749-451-6856,2670 Park Blvd,San Diego,OH,43569,43,2022-12-04,46,476.81,Inactive
+CUST00020,Lisa,Taylor,customer20@email.com,625-585-6070,1417 Elm Dr,Jacksonville,OH,78729,71,2023-08-25,27,2687.14,Inactive
+CUST00021,William,Miller,customer21@email.com,108-731-9974,1514 Oak Ave,Dallas,GA,79430,33,2025-02-11,32,2432.37,Premium
+CUST00022,Michelle,Garcia,customer22@email.com,876-477-9245,7037 Oak Ave,San Diego,NY,79191,43,2024-05-27,12,4230.14,Inactive
+CUST00023,Helen,Martin,customer23@email.com,423-477-6351,708 Park Blvd,San Diego,TX,47325,62,2023-11-08,29,2956.67,Premium
+CUST00024,Sarah,Brown,customer24@email.com,206-260-9819,7545 Pine Rd,San Diego,WA,63471,35,2022-11-01,27,2850.68,Inactive
+CUST00025,Richard,Brown,customer25@email.com,627-140-9760,4033 Oak Ave,Dallas,TX,35060,38,2025-06-26,5,800.98,Active
+CUST00026,Jennifer,Garcia,customer26@email.com,146-547-4240,9729 Park Blvd,San Antonio,NJ,64861,29,2023-11-18,23,3474.33,Active
+CUST00027,Daniel,Moore,customer27@email.com,558-802-4217,3558 Main St,Los Angeles,VA,80675,71,2023-03-01,7,4729.21,Inactive
+CUST00028,Daniel,Davis,customer28@email.com,859-372-6732,5782 Elm Dr,San Francisco,GA,97792,44,2024-02-06,38,2766.04,Inactive
+CUST00029,Michelle,Lopez,customer29@email.com,971-104-3013,9973 Main St,Houston,IL,74535,48,2024-03-20,23,4100.68,Active
+CUST00030,Lisa,Gonzalez,customer30@email.com,985-989-3823,9404 Pine Rd,Columbus,TX,53223,63,2023-04-04,44,820.34,Active
+CUST00031,James,Rodriguez,customer31@email.com,827-719-9462,3903 Pine Rd,Austin,NY,26916,41,2023-06-21,28,2262.84,Inactive
+CUST00032,Jessica,Moore,customer32@email.com,162-540-1520,9712 Main St,San Francisco,WA,22547,78,2024-06-23,11,2115.43,Active
+CUST00033,Lisa,Williams,customer33@email.com,199-532-1385,2094 Pine Rd,Austin,MA,40413,54,2023-05-02,16,1313.56,Active
+CUST00034,Helen,Martin,customer34@email.com,371-869-8677,5902 Park Blvd,Chicago,FL,88126,47,2025-03-17,8,3591.72,Inactive
+CUST00035,David,Wilson,customer35@email.com,889-716-7250,6353 Park Blvd,San Antonio,PA,62385,33,2022-11-17,33,3040.91,Inactive
+CUST00036,Jennifer,Brown,customer36@email.com,717-883-3385,3080 Park Blvd,Phoenix,CA,58213,30,2023-08-25,9,4713.77,Inactive
+CUST00037,William,Smith,customer37@email.com,584-974-1624,4837 Oak Ave,Philadelphia,IL,15740,45,2023-02-24,12,2133.43,Inactive
+CUST00038,Matthew,Jackson,customer38@email.com,465-674-5468,6104 Main St,Philadelphia,PA,35835,21,2025-07-03,36,3417.13,Active
+CUST00039,Ashley,Moore,customer39@email.com,283-369-2900,7269 Park Blvd,San Jose,TX,93263,48,2023-11-11,14,940.7,Premium
+CUST00040,Lisa,Smith,customer40@email.com,190-344-9269,574 Main St,Fort Worth,WA,24785,46,2024-02-10,22,3335.61,Premium
+CUST00041,John,Martinez,customer41@email.com,526-301-7829,2143 Main St,Jacksonville,TX,96171,25,2023-08-12,17,3478.21,Premium
+CUST00042,Amanda,Taylor,customer42@email.com,383-539-5689,9849 Park Blvd,Fort Worth,PA,66528,32,2025-01-19,20,3930.67,Inactive
+CUST00043,Lisa,Thomas,customer43@email.com,610-623-3552,2451 Pine Rd,New York,FL,95354,37,2023-06-20,7,2059.73,Premium
+CUST00044,Lisa,Anderson,customer44@email.com,885-382-3688,5716 Pine Rd,Columbus,VA,48707,61,2023-01-24,16,3007.61,Premium
+CUST00045,Michael,Davis,customer45@email.com,633-346-6581,8670 Elm Dr,San Diego,PA,24295,64,2022-11-25,5,3532.64,Inactive
+CUST00046,Sarah,Gonzalez,customer46@email.com,457-593-4153,563 Pine Rd,San Jose,GA,88325,60,2024-06-12,35,1196.53,Premium
+CUST00047,Jennifer,Williams,customer47@email.com,960-931-2231,7714 Elm Dr,Jacksonville,NJ,50007,79,2023-02-18,33,3611.56,Premium
+CUST00048,Lisa,Anderson,customer48@email.com,582-983-3811,9829 Pine Rd,Los Angeles,MI,14795,77,2025-01-20,29,4283.59,Active
+CUST00049,Chris,Rodriguez,customer49@email.com,554-719-6056,1256 Elm Dr,Austin,NC,96448,72,2024-04-13,48,1279.15,Premium
+CUST00050,Robert,Williams,customer50@email.com,278-875-8287,4736 Main St,Jacksonville,TX,81124,67,2024-04-18,8,4412.45,Inactive
+CUST00051,Sarah,Martin,customer51@email.com,392-383-5587,6627 Oak Ave,New York,FL,94754,63,2023-03-15,16,355.36,Inactive
+CUST00052,Robert,Taylor,customer52@email.com,352-146-3627,962 Main St,Austin,IL,66226,60,2024-07-22,14,492.69,Active
+CUST00053,Michelle,Hernandez,customer53@email.com,533-433-4030,7333 Elm Dr,San Diego,AZ,45921,68,2024-05-22,17,105.98,Premium
+CUST00054,Chris,Wilson,customer54@email.com,287-634-8305,8221 Pine Rd,Dallas,TX,91632,18,2024-04-05,18,1684.34,Premium
+CUST00055,Jennifer,Garcia,customer55@email.com,732-259-5777,6089 Main St,San Antonio,CA,47614,71,2023-06-09,38,4922.78,Active
+CUST00056,Helen,Rodriguez,customer56@email.com,612-433-5041,5109 Pine Rd,San Diego,MI,99989,39,2023-07-17,8,2186.04,Active
+CUST00057,William,Gonzalez,customer57@email.com,740-830-2055,6564 Oak Ave,Fort Worth,NJ,11192,48,2024-01-21,41,2730.2,Premium
+CUST00058,James,Martin,customer58@email.com,101-670-8307,3482 Main St,Fort Worth,FL,86273,29,2024-02-24,34,2858.54,Active
+CUST00059,Sarah,Gonzalez,customer59@email.com,168-811-2851,5281 Pine Rd,Fort Worth,NC,11077,75,2024-07-19,37,464.55,Premium
+CUST00060,Elizabeth,Moore,customer60@email.com,270-933-9629,6290 Elm Dr,Fort Worth,MA,57946,71,2024-04-30,43,593.8,Active
+CUST00061,Ashley,Taylor,customer61@email.com,525-368-3634,6470 Park Blvd,Austin,MA,51162,29,2023-09-13,16,1078.91,Inactive
+CUST00062,Michael,Anderson,customer62@email.com,741-229-8031,9698 Park Blvd,Fort Worth,CA,95366,23,2025-06-06,32,621.06,Inactive
+CUST00063,Lisa,Miller,customer63@email.com,157-701-3112,8167 Oak Ave,Fort Worth,GA,24166,72,2023-10-25,22,3470.66,Active
+CUST00064,Richard,Garcia,customer64@email.com,466-363-6206,6291 Oak Ave,San Francisco,FL,72730,62,2023-02-07,1,1933.9,Premium
+CUST00065,William,Jackson,customer65@email.com,628-491-6457,1616 Pine Rd,Chicago,GA,43615,30,2024-11-07,9,1745.81,Premium
+CUST00066,Ashley,Martinez,customer66@email.com,474-808-4425,6493 Elm Dr,San Diego,TX,73398,42,2025-01-31,27,1391.67,Premium
+CUST00067,Lisa,Thomas,customer67@email.com,866-308-4871,830 Oak Ave,Dallas,FL,49433,54,2025-03-06,9,4131.71,Active
+CUST00068,Richard,Martinez,customer68@email.com,516-560-3197,9298 Elm Dr,Columbus,MI,25472,75,2024-11-19,32,4413.63,Active
+CUST00069,John,Martin,customer69@email.com,455-920-5516,3559 Oak Ave,San Jose,CA,37893,45,2023-03-14,28,4714.49,Inactive
+CUST00070,Michael,Smith,customer70@email.com,141-300-2918,3387 Main St,San Antonio,WA,41985,74,2024-01-24,30,2949.51,Premium
+CUST00071,Richard,Hernandez,customer71@email.com,481-767-9680,3269 Oak Ave,Fort Worth,FL,31009,73,2022-12-31,36,348.28,Premium
+CUST00072,James,Lopez,customer72@email.com,976-860-3880,5361 Park Blvd,Los Angeles,CA,74982,18,2024-11-19,50,4687.35,Inactive
+CUST00073,Michael,Garcia,customer73@email.com,631-728-5571,1324 Elm Dr,Fort Worth,MA,39263,22,2025-01-02,21,1496.09,Premium
+CUST00074,Michelle,Williams,customer74@email.com,865-921-6204,1691 Elm Dr,Phoenix,TX,23726,30,2024-07-29,6,1451.99,Premium
+CUST00075,Amanda,Martin,customer75@email.com,321-570-9687,6276 Oak Ave,Jacksonville,IL,12059,78,2023-05-14,29,4946.76,Premium
+CUST00076,Matthew,Davis,customer76@email.com,870-651-5925,3902 Oak Ave,San Jose,FL,86817,43,2023-06-20,18,4301.57,Inactive
+CUST00077,Richard,Gonzalez,customer77@email.com,397-511-3118,5679 Park Blvd,Austin,VA,71013,73,2023-09-01,40,3253.24,Inactive
+CUST00078,Daniel,Thomas,customer78@email.com,964-408-9989,8139 Pine Rd,Chicago,OH,66485,36,2024-06-25,17,4555.98,Premium
+CUST00079,Emily,Jackson,customer79@email.com,231-418-1376,8199 Main St,San Francisco,CA,37665,57,2024-04-14,29,4557.27,Premium
+CUST00080,Chris,Davis,customer80@email.com,229-635-4204,5977 Main St,San Francisco,VA,25825,77,2023-03-01,4,3327.61,Inactive
+CUST00081,Jennifer,Gonzalez,customer81@email.com,273-651-6317,1304 Oak Ave,Fort Worth,MI,73411,47,2022-11-16,42,2541.53,Premium
+CUST00082,Michelle,Martinez,customer82@email.com,940-903-8757,576 Oak Ave,Jacksonville,NY,19344,72,2024-12-07,4,4894.6,Active
+CUST00083,Ashley,Hernandez,customer83@email.com,621-481-7062,6786 Pine Rd,San Diego,PA,96383,26,2025-05-25,5,3249.91,Premium
+CUST00084,William,Smith,customer84@email.com,730-500-4903,9713 Oak Ave,Los Angeles,TX,74219,71,2023-12-24,41,4242.38,Active
+CUST00085,Emily,Williams,customer85@email.com,909-735-4468,2592 Park Blvd,San Francisco,WA,35677,44,2024-06-27,6,1797.05,Active
+CUST00086,Matthew,Johnson,customer86@email.com,154-387-1915,9674 Oak Ave,New York,NC,86538,42,2025-06-25,5,3786.55,Active
+CUST00087,Sarah,Wilson,customer87@email.com,122-912-6790,7491 Elm Dr,San Jose,AZ,38295,69,2025-01-29,13,753.15,Premium
+CUST00088,John,Miller,customer88@email.com,399-643-6261,5826 Park Blvd,San Francisco,NC,12507,69,2023-07-11,29,4913.1,Premium
+CUST00089,William,Gonzalez,customer89@email.com,221-631-3035,7986 Main St,Dallas,NJ,61627,54,2024-01-19,26,2523.31,Inactive
+CUST00090,John,Lopez,customer90@email.com,176-732-3103,8350 Oak Ave,Los Angeles,IL,52430,57,2024-12-26,34,2389.18,Active
+CUST00091,Sarah,Moore,customer91@email.com,762-154-8675,993 Elm Dr,Houston,MA,24572,24,2025-03-12,20,2854.12,Inactive
+CUST00092,Ashley,Williams,customer92@email.com,550-824-9193,6296 Oak Ave,Los Angeles,FL,71808,67,2023-08-13,36,4431.18,Premium
+CUST00093,Matthew,Jackson,customer93@email.com,847-754-8950,830 Main St,San Francisco,NC,52214,70,2025-03-20,9,1152.14,Active
+CUST00094,Jennifer,Hernandez,customer94@email.com,522-706-7540,7994 Pine Rd,Fort Worth,NC,86070,54,2024-02-09,27,3056.91,Premium
+CUST00095,Jessica,Martinez,customer95@email.com,648-248-8018,494 Pine Rd,Houston,VA,74880,21,2024-10-15,35,1778.74,Premium
+CUST00096,John,Brown,customer96@email.com,609-900-7820,4972 Main St,Houston,PA,95595,35,2024-02-09,0,251.15,Active
+CUST00097,Elizabeth,Gonzalez,customer97@email.com,925-949-7346,7534 Oak Ave,Chicago,WA,89682,25,2023-06-18,8,1994.38,Active
+CUST00098,Richard,Thomas,customer98@email.com,627-989-6133,3589 Park Blvd,Austin,MI,49276,21,2023-11-19,44,3758.37,Active
+CUST00099,Chris,Garcia,customer99@email.com,700-712-5436,993 Elm Dr,Phoenix,MI,25710,69,2024-10-09,34,1319.21,Active
+CUST00100,William,Hernandez,customer100@email.com,858-612-6520,8664 Pine Rd,San Diego,TX,68676,27,2024-01-28,32,4539.59,Inactive
+CUST00101,David,Martin,customer101@email.com,681-145-6649,6628 Main St,Jacksonville,OH,69730,52,2023-03-29,10,3000.02,Inactive
+CUST00102,Jennifer,Williams,customer102@email.com,132-475-9159,5282 Oak Ave,Fort Worth,MA,15293,28,2025-02-20,48,1650.89,Premium
+CUST00103,Jennifer,Garcia,customer103@email.com,600-293-6491,2260 Oak Ave,Chicago,IL,69106,67,2025-04-27,3,1537.29,Premium
+CUST00104,James,Garcia,customer104@email.com,231-872-2515,4325 Pine Rd,San Antonio,GA,61212,46,2024-12-27,49,2175.9,Active
+CUST00105,John,Smith,customer105@email.com,945-875-2828,7464 Pine Rd,Dallas,PA,90695,73,2023-07-01,36,3216.77,Premium
+CUST00106,David,Wilson,customer106@email.com,394-258-7210,6389 Park Blvd,Phoenix,AZ,34835,40,2023-11-22,36,3344.02,Active
+CUST00107,Michelle,Jackson,customer107@email.com,260-743-1013,1053 Oak Ave,Chicago,CA,24719,34,2023-07-26,19,2182.03,Premium
+CUST00108,Matthew,Smith,customer108@email.com,881-304-5835,3673 Park Blvd,San Antonio,VA,86937,27,2025-07-19,39,936.63,Inactive
+CUST00109,James,Lopez,customer109@email.com,337-302-7054,9853 Main St,San Francisco,NY,23152,78,2025-03-18,14,3940.94,Premium
+CUST00110,Ashley,Thomas,customer110@email.com,116-433-3723,8639 Oak Ave,San Jose,NC,23502,49,2022-12-14,0,2023.03,Inactive
+CUST00111,Sarah,Lopez,customer111@email.com,901-147-4902,9639 Pine Rd,Columbus,WA,40816,54,2023-03-27,11,2147.73,Premium
+CUST00112,Chris,Taylor,customer112@email.com,215-331-5654,3406 Pine Rd,San Jose,TX,76572,36,2025-02-15,31,45.07,Premium
+CUST00113,William,Jackson,customer113@email.com,467-632-9966,7282 Main St,Columbus,TX,13770,59,2025-01-06,33,376.12,Premium
+CUST00114,Michael,Anderson,customer114@email.com,193-615-1962,4826 Pine Rd,Los Angeles,PA,56640,24,2023-12-18,44,3519.47,Inactive
+CUST00115,Matthew,Garcia,customer115@email.com,181-911-6082,2874 Park Blvd,San Francisco,WA,31215,26,2023-07-13,12,4305.75,Inactive
+CUST00116,Daniel,Gonzalez,customer116@email.com,140-959-3896,4564 Elm Dr,San Diego,TX,59278,66,2024-03-11,27,1887.34,Premium
+CUST00117,Lisa,Moore,customer117@email.com,426-135-7716,3044 Oak Ave,Jacksonville,CA,59347,33,2025-06-23,49,4262.15,Premium
+CUST00118,Matthew,Lopez,customer118@email.com,415-120-9269,454 Park Blvd,Philadelphia,PA,17120,23,2024-12-20,41,3077.43,Premium
+CUST00119,Matthew,Thomas,customer119@email.com,349-287-6080,5635 Oak Ave,Dallas,NC,96690,50,2024-12-03,24,2881.12,Active
+CUST00120,John,Brown,customer120@email.com,258-307-1176,4906 Park Blvd,Phoenix,PA,62853,55,2025-03-21,36,170.12,Premium
+CUST00121,Emily,Jones,customer121@email.com,185-981-2529,3472 Park Blvd,Columbus,IL,54266,31,2023-08-31,42,3286.11,Inactive
+CUST00122,Michael,Hernandez,customer122@email.com,515-742-8580,7198 Oak Ave,Phoenix,VA,55047,22,2024-04-22,21,4816.78,Active
+CUST00123,Lisa,Smith,customer123@email.com,710-196-3944,2199 Main St,Philadelphia,OH,92830,37,2024-01-16,3,3165.09,Inactive
+CUST00124,Matthew,Garcia,customer124@email.com,133-680-3209,7829 Main St,Dallas,MI,72170,25,2023-12-30,14,2554.7,Premium
+CUST00125,James,Williams,customer125@email.com,419-391-7464,1669 Oak Ave,San Diego,NJ,25152,48,2023-12-07,29,1278.03,Active
+CUST00126,Ashley,Smith,customer126@email.com,984-551-9562,4290 Park Blvd,Austin,MI,70942,60,2024-11-16,25,2037.24,Inactive
+CUST00127,Matthew,Lopez,customer127@email.com,629-495-4060,4696 Pine Rd,Austin,NY,58011,58,2025-06-29,13,1059.61,Inactive
+CUST00128,Matthew,Brown,customer128@email.com,618-411-4310,9109 Oak Ave,Fort Worth,IL,44297,37,2023-01-17,28,2880.99,Inactive
+CUST00129,Chris,Garcia,customer129@email.com,452-722-8284,5136 Pine Rd,Phoenix,VA,49464,48,2025-03-15,7,3537.17,Premium
+CUST00130,Lisa,Smith,customer130@email.com,917-973-2069,4275 Park Blvd,Jacksonville,FL,12799,48,2023-11-22,7,1414.59,Inactive
+CUST00131,Elizabeth,Brown,customer131@email.com,779-770-2814,6270 Elm Dr,Houston,NY,53554,20,2022-12-17,36,3509.66,Premium
+CUST00132,Robert,Williams,customer132@email.com,963-314-9531,9808 Oak Ave,Austin,PA,81200,21,2024-03-17,38,4925.64,Inactive
+CUST00133,Jennifer,Smith,customer133@email.com,599-442-2681,5909 Elm Dr,San Jose,TX,58553,67,2024-12-20,43,4198.52,Active
+CUST00134,Michael,Lopez,customer134@email.com,846-113-9901,9191 Main St,Dallas,CA,44949,56,2023-10-30,3,3073.83,Premium
+CUST00135,Matthew,Miller,customer135@email.com,438-951-1030,7898 Main St,Los Angeles,VA,48721,59,2023-07-05,32,290.89,Active
+CUST00136,Robert,Smith,customer136@email.com,800-870-8170,8416 Pine Rd,Fort Worth,NY,15451,30,2022-12-17,1,787.91,Premium
+CUST00137,Richard,Miller,customer137@email.com,514-591-9233,6955 Pine Rd,San Antonio,VA,94849,25,2024-08-10,20,448.44,Active
+CUST00138,Lisa,Brown,customer138@email.com,607-130-9340,260 Oak Ave,San Antonio,TX,85244,39,2025-03-11,0,598.26,Inactive
+CUST00139,Richard,Jones,customer139@email.com,599-763-1419,4528 Oak Ave,San Antonio,FL,24445,73,2022-10-27,12,1760.02,Premium
+CUST00140,Michelle,Wilson,customer140@email.com,430-742-6099,5342 Elm Dr,Dallas,MI,42688,68,2024-02-21,29,3645.92,Premium
+CUST00141,Elizabeth,Smith,customer141@email.com,475-377-3353,7222 Main St,San Diego,GA,39728,47,2023-02-05,20,4679.07,Premium
+CUST00142,Helen,Miller,customer142@email.com,769-167-6855,9054 Elm Dr,Chicago,PA,57721,27,2025-06-26,49,4205.14,Inactive
+CUST00143,Robert,Jackson,customer143@email.com,181-942-2441,1545 Pine Rd,Los Angeles,TX,30420,32,2023-10-09,36,1664.21,Premium
+CUST00144,Amanda,Williams,customer144@email.com,587-562-1994,8615 Elm Dr,Jacksonville,CA,55849,36,2023-02-08,45,4389.21,Inactive
+CUST00145,Jessica,Davis,customer145@email.com,276-439-6050,4027 Park Blvd,Columbus,WA,20722,31,2024-06-07,50,2744.47,Active
+CUST00146,Ashley,Brown,customer146@email.com,328-221-7249,1639 Oak Ave,Columbus,AZ,63029,20,2025-07-11,6,2228.34,Active
+CUST00147,Robert,Thomas,customer147@email.com,219-483-8530,835 Pine Rd,Houston,IL,84477,24,2025-03-08,10,3671.08,Inactive
+CUST00148,Richard,Lopez,customer148@email.com,411-245-6391,8710 Pine Rd,Columbus,CA,63821,36,2023-12-30,23,2005.08,Active
+CUST00149,Lisa,Thomas,customer149@email.com,407-450-7667,5773 Pine Rd,San Jose,CA,25854,62,2023-05-29,11,4982.07,Inactive
+CUST00150,James,Brown,customer150@email.com,306-609-1572,8280 Elm Dr,Austin,NC,55182,41,2023-11-19,26,907.3,Active
+CUST00151,James,Jones,customer151@email.com,384-995-6826,5268 Elm Dr,Jacksonville,GA,55449,63,2025-06-05,44,4202.64,Premium
+CUST00152,Emily,Brown,customer152@email.com,581-502-4012,4254 Park Blvd,Chicago,PA,99185,43,2023-09-10,48,1488.87,Premium
+CUST00153,Emily,Williams,customer153@email.com,653-279-6806,5947 Elm Dr,Chicago,VA,61256,63,2025-05-23,40,557.84,Active
+CUST00154,John,Gonzalez,customer154@email.com,798-141-3699,1131 Elm Dr,Jacksonville,MI,13511,50,2022-10-26,17,1446.91,Active
+CUST00155,Lisa,Hernandez,customer155@email.com,361-112-5825,441 Oak Ave,Phoenix,MA,27798,40,2024-05-18,31,330.01,Inactive
+CUST00156,Richard,Garcia,customer156@email.com,301-246-4602,9834 Pine Rd,San Antonio,CA,30068,40,2024-03-22,26,869.24,Premium
+CUST00157,Elizabeth,Williams,customer157@email.com,329-386-8219,927 Park Blvd,Houston,MA,55056,22,2023-10-25,23,4209.75,Active
+CUST00158,Elizabeth,Anderson,customer158@email.com,619-986-4108,5227 Elm Dr,Philadelphia,TX,32350,80,2023-02-16,50,4760.07,Active
+CUST00159,Michelle,Garcia,customer159@email.com,977-967-6808,8435 Pine Rd,Fort Worth,TX,51399,23,2024-10-08,23,202.27,Premium
+CUST00160,Ashley,Taylor,customer160@email.com,454-796-4567,688 Park Blvd,San Jose,NY,56748,50,2024-01-03,11,300.43,Active
+CUST00161,Helen,Rodriguez,customer161@email.com,923-854-8865,9049 Oak Ave,Philadelphia,NJ,94157,36,2025-03-06,5,4368.36,Active
+CUST00162,Michelle,Garcia,customer162@email.com,630-235-4917,5585 Park Blvd,Philadelphia,TX,55489,50,2024-09-22,46,2452.86,Premium
+CUST00163,Amanda,Lopez,customer163@email.com,810-245-5739,5190 Main St,San Francisco,WA,13154,70,2023-05-08,9,4449.69,Active
+CUST00164,Daniel,Thomas,customer164@email.com,741-462-1758,2884 Elm Dr,Columbus,MI,59397,48,2023-04-11,4,876.49,Inactive
+CUST00165,Sarah,Anderson,customer165@email.com,135-224-2122,3295 Oak Ave,Chicago,VA,22444,54,2025-01-23,15,1868.93,Inactive
+CUST00166,Ashley,Taylor,customer166@email.com,894-395-8481,2906 Elm Dr,San Jose,PA,72694,29,2023-01-19,0,189.4,Active
+CUST00167,John,Davis,customer167@email.com,158-317-6935,733 Park Blvd,New York,IL,14695,59,2025-03-25,8,385.73,Premium
+CUST00168,David,Hernandez,customer168@email.com,161-468-8539,7481 Park Blvd,Columbus,MA,99679,72,2023-11-24,34,4629.76,Inactive
+CUST00169,Helen,Thomas,customer169@email.com,867-582-6054,5123 Elm Dr,Los Angeles,CA,46862,41,2023-05-12,15,764.0,Active
+CUST00170,Sarah,Williams,customer170@email.com,280-224-5301,7020 Elm Dr,San Antonio,IL,32257,80,2023-10-13,49,880.06,Inactive
+CUST00171,Jessica,Taylor,customer171@email.com,488-641-2392,1262 Elm Dr,Jacksonville,MI,80868,57,2022-10-29,9,1898.18,Active
+CUST00172,Chris,Anderson,customer172@email.com,571-501-5314,6175 Main St,San Antonio,WA,27378,45,2025-04-25,5,1127.18,Inactive
+CUST00173,Jessica,Hernandez,customer173@email.com,887-708-8557,1362 Main St,San Antonio,NC,74516,62,2024-05-05,22,2336.26,Premium
+CUST00174,Matthew,Lopez,customer174@email.com,382-701-8335,8831 Main St,Philadelphia,MA,65079,52,2025-07-16,0,305.91,Inactive
+CUST00175,Amanda,Gonzalez,customer175@email.com,208-332-6152,129 Elm Dr,New York,MI,45739,38,2024-11-16,23,623.79,Inactive
+CUST00176,Jennifer,Rodriguez,customer176@email.com,490-467-2415,8283 Park Blvd,San Diego,MI,85893,63,2023-03-06,48,3648.23,Premium
+CUST00177,Chris,Garcia,customer177@email.com,920-151-1716,8846 Pine Rd,New York,FL,99672,77,2024-02-24,15,4730.21,Active
+CUST00178,Elizabeth,Garcia,customer178@email.com,823-268-3533,2028 Elm Dr,Dallas,IL,87174,57,2024-09-27,44,178.24,Inactive
+CUST00179,Matthew,Garcia,customer179@email.com,310-712-1826,7831 Park Blvd,Chicago,NY,91685,27,2023-09-24,49,1183.82,Premium
+CUST00180,Robert,Miller,customer180@email.com,369-440-6441,6214 Elm Dr,Columbus,MA,94289,32,2023-09-27,14,2590.3,Inactive
+CUST00181,Jennifer,Jackson,customer181@email.com,232-792-3841,9942 Elm Dr,Chicago,VA,57469,57,2023-05-19,41,3094.66,Premium
+CUST00182,Sarah,Garcia,customer182@email.com,837-663-8260,5443 Pine Rd,San Antonio,NJ,33663,49,2023-11-19,15,806.65,Inactive
+CUST00183,William,Hernandez,customer183@email.com,961-554-6915,9764 Pine Rd,Austin,TX,29213,58,2024-05-24,19,4667.75,Premium
+CUST00184,Jessica,Rodriguez,customer184@email.com,551-967-2017,5411 Park Blvd,San Jose,NJ,29578,37,2023-11-14,15,2168.54,Premium
+CUST00185,Jessica,Miller,customer185@email.com,599-129-5513,1695 Pine Rd,Philadelphia,MI,44613,38,2023-02-26,26,1522.16,Inactive
+CUST00186,Lisa,Martin,customer186@email.com,856-710-4033,5731 Elm Dr,San Diego,TX,98985,54,2023-07-26,2,1681.76,Premium
+CUST00187,Matthew,Hernandez,customer187@email.com,989-869-2926,5851 Pine Rd,Columbus,IL,50573,44,2023-02-15,45,8.69,Premium
+CUST00188,Sarah,Garcia,customer188@email.com,635-683-2823,2076 Main St,Fort Worth,MA,12433,65,2022-12-29,10,4071.47,Inactive
+CUST00189,Michelle,Smith,customer189@email.com,768-872-7071,533 Park Blvd,Austin,NJ,57384,52,2024-03-27,29,4143.77,Inactive
+CUST00190,Ashley,Martinez,customer190@email.com,793-594-2936,7617 Oak Ave,San Jose,GA,11835,20,2024-03-01,27,476.88,Premium
+CUST00191,Michael,Moore,customer191@email.com,747-123-4195,760 Park Blvd,San Diego,FL,45823,30,2024-12-02,36,3856.29,Premium
+CUST00192,Lisa,Thomas,customer192@email.com,469-923-7927,2242 Elm Dr,San Antonio,NY,86720,48,2023-12-06,18,4577.14,Premium
+CUST00193,Jessica,Anderson,customer193@email.com,985-761-2607,9211 Pine Rd,Columbus,MA,87887,53,2023-01-26,23,1780.0,Active
+CUST00194,Robert,Williams,customer194@email.com,338-703-7203,6609 Park Blvd,Philadelphia,AZ,88192,40,2023-01-26,18,4212.99,Inactive
+CUST00195,John,Thomas,customer195@email.com,132-700-8819,4814 Park Blvd,Houston,CA,94656,43,2024-07-28,14,540.78,Active
+CUST00196,Sarah,Hernandez,customer196@email.com,938-552-4461,5042 Main St,Austin,MI,35942,72,2024-10-04,0,284.8,Inactive
+CUST00197,Sarah,Smith,customer197@email.com,210-837-5039,8735 Elm Dr,Phoenix,NC,38698,21,2022-11-27,32,3304.79,Premium
+CUST00198,Sarah,Taylor,customer198@email.com,659-296-2711,6142 Pine Rd,Fort Worth,MI,96551,80,2023-11-26,42,4618.68,Inactive
+CUST00199,Matthew,Martinez,customer199@email.com,895-426-2572,5871 Pine Rd,Chicago,WA,80855,56,2025-04-14,36,2900.75,Inactive
+CUST00200,Sarah,Williams,customer200@email.com,959-916-1465,148 Elm Dr,Philadelphia,NJ,66534,47,2023-12-23,12,3212.73,Active
+CUST00201,Ashley,Wilson,customer201@email.com,116-911-7747,4183 Oak Ave,New York,OH,21490,38,2023-12-08,43,2719.16,Premium
+CUST00202,Daniel,Miller,customer202@email.com,290-277-8191,910 Main St,Dallas,OH,61811,60,2024-05-01,36,3849.84,Active
+CUST00203,John,Smith,customer203@email.com,225-341-5199,6362 Main St,New York,TX,75055,30,2024-05-23,48,1703.04,Active
+CUST00204,Jessica,Thomas,customer204@email.com,622-446-4477,9543 Oak Ave,Philadelphia,OH,96657,59,2024-08-02,6,198.02,Active
+CUST00205,Jessica,Davis,customer205@email.com,220-330-1307,1311 Park Blvd,New York,AZ,84447,39,2023-11-10,17,3797.89,Inactive
+CUST00206,Jessica,Williams,customer206@email.com,742-677-7805,8851 Park Blvd,San Jose,MA,81661,32,2024-11-09,44,1148.34,Inactive
+CUST00207,Matthew,Davis,customer207@email.com,710-600-3221,5732 Pine Rd,Philadelphia,MA,21050,52,2025-03-10,3,2968.24,Inactive
+CUST00208,Emily,Gonzalez,customer208@email.com,731-330-7622,9790 Oak Ave,San Francisco,OH,69891,76,2024-10-28,1,1041.39,Inactive
+CUST00209,Jennifer,Rodriguez,customer209@email.com,148-949-9283,766 Pine Rd,Chicago,FL,59824,28,2024-01-05,42,3065.53,Premium
+CUST00210,Daniel,Garcia,customer210@email.com,648-309-1963,410 Pine Rd,Austin,AZ,97303,65,2023-04-30,9,1882.84,Premium
+CUST00211,Elizabeth,Taylor,customer211@email.com,130-690-9983,8767 Oak Ave,Philadelphia,PA,16726,54,2023-01-28,4,2760.23,Inactive
+CUST00212,Jennifer,Davis,customer212@email.com,703-812-8131,126 Pine Rd,Columbus,IL,35871,54,2023-02-19,18,3366.69,Active
+CUST00213,David,Lopez,customer213@email.com,369-426-7782,4183 Main St,New York,NJ,87829,36,2023-02-27,32,1293.97,Inactive
+CUST00214,Emily,Moore,customer214@email.com,650-883-8161,7246 Oak Ave,Chicago,WA,65190,63,2025-04-15,49,4730.84,Inactive
+CUST00215,Robert,Davis,customer215@email.com,420-200-5554,9452 Elm Dr,San Diego,IL,46985,18,2025-04-28,25,981.46,Active
+CUST00216,Sarah,Taylor,customer216@email.com,576-842-6186,6250 Main St,San Jose,CA,19437,63,2023-09-18,4,2226.88,Inactive
+CUST00217,Amanda,Smith,customer217@email.com,360-920-1770,6425 Park Blvd,San Antonio,MA,62089,18,2024-05-11,7,391.72,Premium
+CUST00218,Ashley,Jackson,customer218@email.com,613-550-8134,9069 Elm Dr,San Diego,TX,36173,39,2023-02-24,46,3108.74,Inactive
+CUST00219,John,Brown,customer219@email.com,864-848-2294,9875 Main St,Chicago,NJ,75075,52,2024-10-18,39,3845.68,Premium
+CUST00220,Helen,Jones,customer220@email.com,499-824-9315,6744 Main St,San Jose,PA,52105,60,2023-04-16,48,1333.29,Premium
+CUST00221,James,Hernandez,customer221@email.com,784-571-7340,6671 Oak Ave,Dallas,NJ,21294,26,2024-10-10,43,363.48,Active
+CUST00222,Michael,Martin,customer222@email.com,509-260-5846,936 Oak Ave,San Francisco,IL,76910,72,2022-11-03,35,4503.86,Active
+CUST00223,Jennifer,Thomas,customer223@email.com,519-649-1783,4345 Elm Dr,San Antonio,NY,31774,46,2025-01-04,4,4726.1,Active
+CUST00224,John,Martinez,customer224@email.com,870-228-2561,8202 Pine Rd,San Diego,IL,71208,63,2024-11-27,11,3265.27,Active
+CUST00225,James,Martinez,customer225@email.com,772-803-3148,9226 Pine Rd,Austin,GA,88340,53,2023-11-21,0,4437.14,Active
+CUST00226,Emily,Brown,customer226@email.com,286-727-8255,2755 Park Blvd,Philadelphia,GA,61750,44,2023-03-28,45,900.61,Active
+CUST00227,Sarah,Johnson,customer227@email.com,719-503-2911,5304 Elm Dr,Los Angeles,NY,79352,75,2023-03-16,2,3745.06,Inactive
+CUST00228,Helen,Johnson,customer228@email.com,694-782-3976,8362 Park Blvd,Dallas,NY,87919,20,2022-12-01,37,403.24,Premium
+CUST00229,John,Moore,customer229@email.com,619-534-1648,657 Elm Dr,Fort Worth,NY,57814,69,2025-03-08,16,4769.98,Active
+CUST00230,Robert,Thomas,customer230@email.com,304-226-1776,4818 Park Blvd,New York,NY,24623,74,2024-10-27,35,3035.64,Active
+CUST00231,James,Davis,customer231@email.com,393-420-8649,2901 Main St,Phoenix,CA,66199,28,2024-08-01,33,106.84,Active
+CUST00232,Elizabeth,Lopez,customer232@email.com,751-521-9203,4785 Main St,Dallas,OH,55096,18,2023-04-30,10,3553.83,Inactive
+CUST00233,Chris,Williams,customer233@email.com,168-321-4265,4359 Main St,Philadelphia,MI,16762,39,2024-06-26,10,3897.9,Premium
+CUST00234,Emily,Anderson,customer234@email.com,446-463-2350,5545 Park Blvd,San Diego,IL,23777,38,2023-11-30,33,4920.34,Inactive
+CUST00235,David,Thomas,customer235@email.com,371-700-6508,9851 Park Blvd,Dallas,NC,39744,44,2023-09-02,21,2384.52,Active
+CUST00236,John,Martinez,customer236@email.com,841-568-9369,2711 Elm Dr,Philadelphia,WA,95467,21,2023-12-03,31,3371.87,Premium
+CUST00237,Emily,Hernandez,customer237@email.com,102-371-8610,6441 Oak Ave,Columbus,NY,54423,61,2025-02-26,1,2654.12,Inactive
+CUST00238,Michelle,Jones,customer238@email.com,258-586-9093,5734 Pine Rd,Chicago,IL,68686,32,2024-11-02,17,3612.13,Inactive
+CUST00239,Sarah,Brown,customer239@email.com,100-126-3035,8186 Oak Ave,San Francisco,NY,73721,53,2023-08-01,46,2536.04,Premium
+CUST00240,Michelle,Thomas,customer240@email.com,102-419-5454,7106 Pine Rd,Columbus,OH,87939,58,2025-01-13,10,4085.84,Inactive
+CUST00241,Elizabeth,Garcia,customer241@email.com,134-666-6549,3528 Pine Rd,San Francisco,OH,50409,62,2023-11-04,47,3767.36,Active
+CUST00242,David,Davis,customer242@email.com,383-459-3425,4215 Elm Dr,San Antonio,NJ,49141,75,2025-05-01,40,3452.79,Premium
+CUST00243,Lisa,Martin,customer243@email.com,717-488-7315,9629 Oak Ave,Chicago,NJ,73430,38,2023-10-15,39,4334.39,Premium
+CUST00244,John,Jones,customer244@email.com,127-924-9250,4025 Park Blvd,Chicago,NJ,38415,47,2024-07-16,2,1064.86,Inactive
+CUST00245,William,Gonzalez,customer245@email.com,662-255-7786,6483 Park Blvd,Chicago,PA,44916,67,2023-04-21,50,1840.69,Premium
+CUST00246,Helen,Jackson,customer246@email.com,649-559-2593,3699 Main St,New York,NJ,76286,45,2024-10-15,47,8.48,Inactive
+CUST00247,David,Anderson,customer247@email.com,539-501-8988,1776 Oak Ave,New York,CA,67786,30,2023-11-17,47,3960.73,Premium
+CUST00248,Matthew,Smith,customer248@email.com,470-610-1197,6557 Park Blvd,Philadelphia,VA,36227,40,2023-08-21,4,2970.37,Active
+CUST00249,Helen,Martinez,customer249@email.com,239-706-8248,6800 Elm Dr,San Francisco,NC,36636,52,2024-05-09,38,3924.71,Inactive
+CUST00250,Chris,Davis,customer250@email.com,178-240-3006,6341 Oak Ave,Fort Worth,NC,64294,58,2023-03-28,45,411.83,Active
+CUST00251,Daniel,Smith,customer251@email.com,711-656-1575,3657 Park Blvd,San Antonio,PA,99632,28,2025-03-12,29,1707.45,Active
+CUST00252,Robert,Smith,customer252@email.com,493-183-7215,5092 Oak Ave,San Jose,PA,79037,69,2023-11-06,43,4433.11,Inactive
+CUST00253,Daniel,Thomas,customer253@email.com,357-858-6095,3705 Main St,Houston,PA,24489,68,2025-02-16,28,2888.15,Premium
+CUST00254,Ashley,Martin,customer254@email.com,665-367-1982,1331 Park Blvd,San Diego,CA,16963,53,2022-11-01,29,3364.42,Active
+CUST00255,John,Smith,customer255@email.com,635-649-6374,8063 Elm Dr,Columbus,VA,88107,63,2023-12-28,2,4807.17,Inactive
+CUST00256,Michelle,Williams,customer256@email.com,982-322-4183,6644 Main St,Columbus,PA,86693,76,2023-07-11,23,38.22,Active
+CUST00257,Jessica,Martinez,customer257@email.com,701-538-6864,3369 Oak Ave,Los Angeles,GA,38289,48,2024-03-23,17,3918.82,Active
+CUST00258,Lisa,Anderson,customer258@email.com,413-473-1915,9284 Pine Rd,Jacksonville,NY,33688,49,2024-09-01,5,2681.09,Premium
+CUST00259,Jennifer,Lopez,customer259@email.com,446-885-6461,8888 Pine Rd,Jacksonville,NC,63923,59,2024-12-24,11,82.67,Inactive
+CUST00260,Lisa,Jones,customer260@email.com,122-321-6597,8975 Park Blvd,Austin,MI,14305,23,2025-05-31,26,4535.06,Premium
+CUST00261,Emily,Williams,customer261@email.com,978-958-5727,6019 Main St,San Francisco,OH,23728,59,2024-04-21,11,2590.86,Inactive
+CUST00262,Chris,Davis,customer262@email.com,815-899-8439,1626 Oak Ave,San Diego,CA,98113,19,2025-04-13,28,3490.22,Active
+CUST00263,Matthew,Martin,customer263@email.com,652-835-6897,585 Main St,Philadelphia,CA,42941,66,2024-08-17,50,2661.6,Inactive
+CUST00264,Emily,Gonzalez,customer264@email.com,538-980-8632,5309 Park Blvd,Columbus,NJ,25865,64,2022-12-14,11,2301.39,Inactive
+CUST00265,Helen,Garcia,customer265@email.com,322-887-4488,2091 Oak Ave,Philadelphia,CA,99214,31,2023-12-05,35,4677.01,Inactive
+CUST00266,Michael,Garcia,customer266@email.com,882-310-7671,6320 Main St,Los Angeles,NJ,51779,22,2022-12-29,31,4235.91,Premium
+CUST00267,Michelle,Hernandez,customer267@email.com,590-843-1166,3886 Main St,Fort Worth,AZ,43971,30,2023-07-24,33,2204.66,Inactive
+CUST00268,Ashley,Brown,customer268@email.com,529-731-5536,5080 Main St,Fort Worth,CA,58379,48,2023-12-23,33,3988.41,Premium
+CUST00269,Daniel,Miller,customer269@email.com,180-115-8157,488 Park Blvd,San Antonio,AZ,73584,64,2022-12-09,37,2442.65,Inactive
+CUST00270,Lisa,Martinez,customer270@email.com,652-382-3607,5423 Park Blvd,Dallas,WA,52659,74,2023-03-31,10,2931.76,Active
+CUST00271,Emily,Rodriguez,customer271@email.com,580-433-5147,8956 Oak Ave,Phoenix,NJ,32476,77,2025-06-20,10,460.74,Inactive
+CUST00272,Chris,Williams,customer272@email.com,383-510-2175,6664 Elm Dr,Philadelphia,CA,43525,65,2023-11-12,42,577.66,Premium
+CUST00273,William,Moore,customer273@email.com,514-268-2824,4226 Pine Rd,Houston,MA,43338,33,2024-09-21,1,2587.17,Active
+CUST00274,Ashley,Moore,customer274@email.com,521-908-8380,8064 Main St,Jacksonville,PA,25858,54,2022-12-21,40,3413.51,Premium
+CUST00275,David,Brown,customer275@email.com,411-860-4084,8547 Park Blvd,Dallas,GA,45856,56,2023-12-29,40,3320.51,Inactive
+CUST00276,Lisa,Davis,customer276@email.com,301-172-6192,8386 Main St,Fort Worth,GA,95203,33,2023-10-15,39,2085.27,Inactive
+CUST00277,Chris,Anderson,customer277@email.com,112-168-2782,1826 Park Blvd,Dallas,VA,47888,70,2023-04-28,27,4081.06,Active
+CUST00278,Ashley,Johnson,customer278@email.com,601-413-9997,2497 Elm Dr,Phoenix,NY,19271,20,2025-04-26,41,336.12,Active
+CUST00279,John,Wilson,customer279@email.com,650-431-8512,9769 Park Blvd,New York,GA,97014,72,2024-01-15,48,1323.45,Active
+CUST00280,Elizabeth,Rodriguez,customer280@email.com,976-761-4302,7823 Elm Dr,Columbus,NJ,86784,49,2024-09-24,34,4042.4,Premium
+CUST00281,Robert,Taylor,customer281@email.com,539-289-4751,2000 Park Blvd,New York,MA,91195,66,2023-09-12,10,361.33,Inactive
+CUST00282,Lisa,Hernandez,customer282@email.com,873-650-3534,5595 Oak Ave,Chicago,MI,80681,76,2023-07-26,14,3944.42,Active
+CUST00283,Michael,Johnson,customer283@email.com,599-438-4169,281 Park Blvd,San Diego,TX,98472,51,2024-09-22,30,1695.2,Premium
+CUST00284,Sarah,Taylor,customer284@email.com,972-528-2628,6898 Main St,Jacksonville,OH,58541,72,2024-07-29,32,4855.25,Active
+CUST00285,Amanda,Brown,customer285@email.com,448-555-4913,6992 Oak Ave,Philadelphia,AZ,15334,45,2023-11-01,28,33.95,Premium
+CUST00286,Chris,Miller,customer286@email.com,496-939-8651,4820 Pine Rd,San Francisco,IL,24225,57,2022-12-23,17,3704.12,Premium
+CUST00287,Richard,Brown,customer287@email.com,927-250-6696,4170 Pine Rd,New York,NC,93056,47,2025-03-05,30,1645.88,Inactive
+CUST00288,John,Johnson,customer288@email.com,788-869-7903,7130 Oak Ave,Houston,OH,78105,49,2024-03-07,8,4477.74,Premium
+CUST00289,John,Wilson,customer289@email.com,290-363-9137,3229 Main St,San Jose,NC,69972,52,2023-06-17,36,246.82,Active
+CUST00290,Lisa,Jackson,customer290@email.com,629-412-3932,2696 Oak Ave,San Francisco,CA,94982,40,2023-09-23,41,1796.12,Inactive
+CUST00291,Amanda,Garcia,customer291@email.com,682-216-6745,7711 Main St,Columbus,NC,67253,66,2025-07-15,29,1250.11,Inactive
+CUST00292,David,Rodriguez,customer292@email.com,634-890-3126,7649 Pine Rd,San Diego,CA,68396,18,2024-04-28,20,1499.49,Premium
+CUST00293,Daniel,Jones,customer293@email.com,531-747-5081,2166 Oak Ave,San Jose,OH,60208,48,2023-05-14,35,688.93,Premium
+CUST00294,Ashley,Williams,customer294@email.com,637-845-1651,1399 Main St,San Jose,TX,21598,54,2023-07-06,3,1487.48,Premium
+CUST00295,Emily,Jackson,customer295@email.com,368-234-7340,2617 Park Blvd,San Jose,TX,21673,77,2024-01-04,2,2907.55,Active
+CUST00296,Michelle,Wilson,customer296@email.com,557-708-1644,4270 Main St,San Antonio,NC,27913,25,2023-11-13,14,1891.17,Premium
+CUST00297,Michael,Jackson,customer297@email.com,516-822-8925,9360 Oak Ave,San Jose,FL,65645,38,2023-02-19,0,3795.2,Inactive
+CUST00298,Jennifer,Anderson,customer298@email.com,551-948-2861,4460 Main St,Fort Worth,NJ,91144,21,2023-04-28,33,1163.51,Inactive
+CUST00299,Michelle,Martinez,customer299@email.com,543-730-4804,8093 Main St,Austin,OH,67869,57,2025-05-27,28,1429.53,Active
+CUST00300,Ashley,Martinez,customer300@email.com,645-825-9363,5074 Park Blvd,San Antonio,NJ,97189,77,2023-06-16,49,388.69,Premium
+CUST00301,Jessica,Thomas,customer301@email.com,603-427-9709,3843 Pine Rd,Jacksonville,GA,92143,29,2023-01-03,41,2579.31,Inactive
+CUST00302,Ashley,Martin,customer302@email.com,356-751-1829,6240 Pine Rd,Austin,NY,25539,58,2024-10-10,33,4302.78,Premium
+CUST00303,Richard,Jones,customer303@email.com,713-551-3687,1973 Park Blvd,Austin,NJ,10447,33,2024-09-02,35,2293.36,Premium
+CUST00304,Helen,Smith,customer304@email.com,703-571-4405,1144 Oak Ave,San Diego,AZ,30329,33,2024-07-30,9,1833.19,Active
+CUST00305,Elizabeth,Davis,customer305@email.com,501-938-5884,2431 Oak Ave,New York,NY,44138,20,2024-11-26,19,2928.86,Inactive
+CUST00306,Jessica,Wilson,customer306@email.com,432-630-7719,6763 Oak Ave,Columbus,CA,91891,36,2024-04-22,48,4826.02,Premium
+CUST00307,William,Rodriguez,customer307@email.com,289-130-5976,2640 Park Blvd,Houston,NJ,12765,50,2023-07-13,19,4877.12,Premium
+CUST00308,David,Anderson,customer308@email.com,750-120-7640,7411 Main St,San Jose,WA,11028,19,2024-11-20,7,1989.96,Active
+CUST00309,James,Brown,customer309@email.com,760-937-1254,6456 Oak Ave,New York,NC,80995,23,2024-03-18,27,3326.35,Inactive
+CUST00310,John,Gonzalez,customer310@email.com,428-380-8057,9552 Elm Dr,Phoenix,MA,76460,28,2023-04-22,21,3611.3,Active
+CUST00311,Daniel,Garcia,customer311@email.com,351-827-6034,1705 Park Blvd,Philadelphia,OH,70698,80,2023-06-25,49,4386.41,Premium
+CUST00312,Richard,Rodriguez,customer312@email.com,723-854-7244,4688 Park Blvd,Philadelphia,GA,39955,70,2024-05-23,21,3596.21,Inactive
+CUST00313,John,Thomas,customer313@email.com,968-264-3872,9105 Pine Rd,New York,GA,83980,73,2024-08-07,13,2271.89,Premium
+CUST00314,Elizabeth,Smith,customer314@email.com,355-988-2511,560 Pine Rd,Phoenix,AZ,59402,60,2024-07-25,30,135.76,Inactive
+CUST00315,Michael,Thomas,customer315@email.com,746-277-5671,148 Pine Rd,Philadelphia,PA,97360,19,2024-07-10,47,3364.37,Active
+CUST00316,Elizabeth,Smith,customer316@email.com,752-739-6581,3223 Park Blvd,San Francisco,TX,45665,59,2024-12-29,2,1878.03,Inactive
+CUST00317,Lisa,Brown,customer317@email.com,561-416-2332,4343 Elm Dr,San Francisco,TX,91681,74,2023-05-17,30,2798.63,Premium
+CUST00318,Robert,Garcia,customer318@email.com,331-439-6326,5699 Main St,New York,FL,18710,64,2023-04-01,29,2746.49,Active
+CUST00319,Amanda,Garcia,customer319@email.com,502-613-6020,9235 Park Blvd,San Jose,MA,77161,52,2023-12-29,32,3892.82,Premium
+CUST00320,Robert,Anderson,customer320@email.com,745-653-1275,6207 Main St,Chicago,IL,60937,42,2023-07-20,43,4011.01,Premium
+CUST00321,Daniel,Brown,customer321@email.com,147-306-7769,2476 Pine Rd,New York,OH,75189,62,2024-01-09,16,2791.94,Active
+CUST00322,Ashley,Davis,customer322@email.com,530-980-5881,7707 Pine Rd,Fort Worth,NC,53892,72,2024-05-18,10,2541.67,Active
+CUST00323,Ashley,Wilson,customer323@email.com,187-886-9039,1239 Park Blvd,Jacksonville,WA,36086,75,2024-04-15,26,2462.33,Active
+CUST00324,Michael,Garcia,customer324@email.com,957-493-3986,6106 Main St,New York,MI,81781,46,2023-03-12,40,1431.96,Inactive
+CUST00325,Daniel,Martinez,customer325@email.com,769-175-8263,3495 Elm Dr,Jacksonville,NJ,67101,26,2025-05-08,36,3112.96,Premium
+CUST00326,Robert,Hernandez,customer326@email.com,787-766-5662,576 Park Blvd,Chicago,OH,68148,25,2024-05-13,34,561.82,Inactive
+CUST00327,Amanda,Lopez,customer327@email.com,617-114-9327,2803 Oak Ave,San Francisco,AZ,70895,75,2024-10-15,43,3790.07,Active
+CUST00328,Jessica,Martinez,customer328@email.com,700-532-5303,7213 Park Blvd,Columbus,VA,90845,40,2024-10-30,39,391.31,Active
+CUST00329,Matthew,Hernandez,customer329@email.com,444-696-9858,4484 Main St,Jacksonville,VA,36980,58,2024-07-05,30,3041.11,Active
+CUST00330,James,Williams,customer330@email.com,649-760-2263,3107 Elm Dr,San Francisco,MI,61784,80,2025-04-09,39,2582.45,Inactive
+CUST00331,Matthew,Smith,customer331@email.com,442-576-9934,4704 Pine Rd,San Francisco,WA,94273,40,2025-06-10,43,3899.41,Active
+CUST00332,David,Davis,customer332@email.com,465-160-7802,6993 Main St,Columbus,MA,91543,67,2025-06-20,36,4515.53,Premium
+CUST00333,Michelle,Garcia,customer333@email.com,785-174-9672,3635 Main St,San Diego,CA,40862,67,2025-06-30,31,860.59,Inactive
+CUST00334,Michelle,Moore,customer334@email.com,863-211-8748,5073 Park Blvd,Columbus,IL,16172,53,2025-01-30,1,2483.73,Active
+CUST00335,Helen,Davis,customer335@email.com,333-596-4916,9218 Pine Rd,Chicago,GA,70023,68,2024-10-23,29,25.46,Premium
+CUST00336,Helen,Johnson,customer336@email.com,832-324-4743,953 Elm Dr,Jacksonville,CA,71681,68,2023-07-30,47,1560.3,Inactive
+CUST00337,Elizabeth,Moore,customer337@email.com,134-735-3370,1895 Park Blvd,San Antonio,NY,24723,43,2024-01-23,36,1737.67,Premium
+CUST00338,David,Davis,customer338@email.com,354-790-2050,2283 Main St,Philadelphia,GA,59227,37,2022-12-24,18,2128.0,Inactive
+CUST00339,David,Jackson,customer339@email.com,597-745-3155,1021 Elm Dr,San Jose,TX,63905,39,2023-07-28,28,2003.44,Inactive
+CUST00340,James,Davis,customer340@email.com,833-723-1522,2891 Park Blvd,Los Angeles,AZ,76287,28,2023-05-31,17,4585.68,Active
+CUST00341,Emily,Hernandez,customer341@email.com,672-887-2534,4098 Pine Rd,Los Angeles,AZ,21177,21,2025-04-01,17,723.95,Active
+CUST00342,Michael,Rodriguez,customer342@email.com,603-258-9321,5183 Main St,Chicago,MI,25327,42,2023-05-23,18,63.17,Inactive
+CUST00343,Lisa,Smith,customer343@email.com,479-768-5288,6165 Park Blvd,Columbus,NY,43921,60,2024-02-17,11,556.64,Active
+CUST00344,Michael,Taylor,customer344@email.com,348-797-1142,5427 Pine Rd,Jacksonville,PA,92065,26,2023-05-29,47,820.54,Active
+CUST00345,Helen,Moore,customer345@email.com,380-594-9783,2117 Oak Ave,Los Angeles,AZ,97738,74,2025-05-08,43,1037.97,Premium
+CUST00346,Elizabeth,Williams,customer346@email.com,358-164-6874,1106 Pine Rd,Jacksonville,GA,64116,44,2024-02-29,38,4994.31,Premium
+CUST00347,Jessica,Jackson,customer347@email.com,785-780-7256,4395 Pine Rd,San Antonio,MI,45703,54,2025-03-16,46,3648.2,Inactive
+CUST00348,Emily,Williams,customer348@email.com,233-538-4473,4916 Pine Rd,Fort Worth,CA,98635,51,2024-07-14,48,867.44,Premium
+CUST00349,Amanda,Williams,customer349@email.com,215-670-1894,6241 Main St,San Antonio,IL,86105,32,2024-04-26,44,1542.67,Active
+CUST00350,Sarah,Martinez,customer350@email.com,123-941-4967,5919 Elm Dr,New York,FL,38611,57,2023-12-26,1,280.09,Inactive
+CUST00351,Daniel,Miller,customer351@email.com,903-619-5891,4622 Park Blvd,Philadelphia,NY,91277,51,2023-07-16,3,2093.04,Inactive
+CUST00352,James,Taylor,customer352@email.com,780-851-7630,6165 Park Blvd,Los Angeles,FL,83435,48,2022-10-29,47,474.46,Active
+CUST00353,Jennifer,Lopez,customer353@email.com,355-802-9673,330 Pine Rd,San Diego,VA,52284,62,2023-09-12,34,1255.57,Inactive
+CUST00354,David,Johnson,customer354@email.com,174-934-6207,8543 Main St,Columbus,GA,21022,67,2023-03-28,13,2162.84,Inactive
+CUST00355,Richard,Miller,customer355@email.com,209-673-7175,7404 Main St,Philadelphia,NJ,93877,42,2023-12-10,17,1149.52,Active
+CUST00356,Elizabeth,Anderson,customer356@email.com,575-369-8763,7535 Park Blvd,Phoenix,IL,70628,39,2023-12-09,16,3595.05,Inactive
+CUST00357,David,Gonzalez,customer357@email.com,202-987-2325,2612 Oak Ave,Austin,FL,94118,47,2024-03-09,47,864.18,Premium
+CUST00358,Jennifer,Brown,customer358@email.com,648-733-6638,4920 Pine Rd,New York,TX,54000,57,2023-10-11,29,843.0,Premium
+CUST00359,John,Taylor,customer359@email.com,304-234-8864,4498 Park Blvd,New York,NC,65504,46,2023-09-03,50,3020.0,Inactive
+CUST00360,William,Taylor,customer360@email.com,910-965-1337,6128 Main St,Columbus,GA,95475,28,2022-11-10,11,1882.74,Inactive
+CUST00361,John,Thomas,customer361@email.com,165-759-6885,2014 Park Blvd,San Francisco,VA,11746,62,2024-08-03,22,3454.89,Active
+CUST00362,Helen,Hernandez,customer362@email.com,458-430-1928,6135 Elm Dr,New York,NY,48827,32,2025-03-02,27,803.69,Inactive
+CUST00363,Jessica,Brown,customer363@email.com,670-869-8856,2626 Elm Dr,San Francisco,IL,38917,62,2024-12-24,48,1469.21,Premium
+CUST00364,Emily,Davis,customer364@email.com,429-261-9299,646 Main St,Phoenix,MI,10943,39,2023-07-07,10,4913.8,Inactive
+CUST00365,David,Wilson,customer365@email.com,400-273-7320,8382 Main St,New York,OH,26253,70,2023-10-17,11,2667.05,Inactive
+CUST00366,Jennifer,Brown,customer366@email.com,299-806-5737,3468 Park Blvd,Dallas,FL,19755,45,2024-02-23,23,4627.71,Active
+CUST00367,Helen,Wilson,customer367@email.com,666-855-6687,8564 Main St,New York,CA,97700,53,2024-09-27,48,3686.09,Premium
+CUST00368,David,Garcia,customer368@email.com,533-576-3941,8988 Park Blvd,Austin,FL,73650,72,2023-01-09,4,2671.52,Inactive
+CUST00369,Matthew,Rodriguez,customer369@email.com,944-862-1488,9151 Elm Dr,Philadelphia,GA,65301,36,2023-02-05,12,3428.5,Active
+CUST00370,John,Hernandez,customer370@email.com,452-498-9648,2920 Elm Dr,Phoenix,FL,51970,60,2023-11-16,32,698.48,Active
+CUST00371,Jennifer,Gonzalez,customer371@email.com,832-643-4257,757 Pine Rd,Los Angeles,MI,36523,39,2025-01-04,17,4219.03,Premium
+CUST00372,Jessica,Lopez,customer372@email.com,341-645-3032,2310 Main St,Dallas,NY,94422,53,2023-01-09,15,1311.4,Premium
+CUST00373,Ashley,Gonzalez,customer373@email.com,988-424-1325,3621 Elm Dr,Phoenix,NC,21755,24,2024-06-13,11,3020.43,Inactive
+CUST00374,Ashley,Johnson,customer374@email.com,393-888-5183,6468 Pine Rd,Fort Worth,VA,84363,46,2023-05-30,21,4508.06,Inactive
+CUST00375,Michael,Jackson,customer375@email.com,429-114-7062,7141 Oak Ave,Columbus,NC,53810,47,2023-10-25,12,2712.35,Premium
+CUST00376,Matthew,Davis,customer376@email.com,159-858-4406,6300 Oak Ave,Houston,OH,64859,79,2024-10-06,17,19.38,Active
+CUST00377,Jessica,Moore,customer377@email.com,257-629-5485,2593 Oak Ave,Los Angeles,MA,27719,66,2022-11-04,34,1671.62,Active
+CUST00378,Jessica,Williams,customer378@email.com,498-998-6333,2777 Oak Ave,Chicago,MA,79358,33,2024-03-31,43,997.93,Inactive
+CUST00379,Michelle,Martin,customer379@email.com,895-961-6282,4679 Pine Rd,San Diego,CA,24789,34,2023-11-27,43,1123.63,Active
+CUST00380,Lisa,Taylor,customer380@email.com,772-140-6628,2987 Park Blvd,San Francisco,NY,18167,29,2023-07-19,21,1252.83,Inactive
+CUST00381,Jennifer,Jones,customer381@email.com,355-181-6200,3216 Elm Dr,New York,AZ,49669,39,2023-07-10,12,1078.66,Inactive
+CUST00382,Michelle,Anderson,customer382@email.com,183-418-4258,2479 Pine Rd,Los Angeles,WA,83884,46,2022-11-21,48,4492.22,Inactive
+CUST00383,Amanda,Jackson,customer383@email.com,878-930-8009,5565 Oak Ave,Dallas,NC,90818,72,2025-06-25,19,1350.4,Active
+CUST00384,Amanda,Gonzalez,customer384@email.com,237-464-6388,9682 Park Blvd,San Jose,GA,38536,34,2022-12-19,16,2843.09,Premium
+CUST00385,Chris,Thomas,customer385@email.com,617-501-5720,9972 Main St,New York,TX,74141,73,2023-01-17,22,850.65,Active
+CUST00386,Robert,Miller,customer386@email.com,543-582-9740,5208 Elm Dr,Dallas,PA,26157,21,2025-06-20,20,1835.66,Premium
+CUST00387,David,Taylor,customer387@email.com,374-809-1445,842 Oak Ave,San Jose,FL,34659,48,2024-11-18,11,190.34,Active
+CUST00388,Michelle,Taylor,customer388@email.com,297-996-1768,4003 Pine Rd,San Antonio,NY,58364,28,2024-08-04,18,312.9,Active
+CUST00389,James,Wilson,customer389@email.com,399-781-2220,9226 Main St,New York,FL,20183,39,2023-11-29,43,1286.45,Premium
+CUST00390,Emily,Thomas,customer390@email.com,861-303-1702,342 Park Blvd,Houston,CA,59846,48,2023-01-16,39,2016.49,Premium
+CUST00391,Michael,Taylor,customer391@email.com,850-955-1842,9279 Park Blvd,San Diego,TX,11722,59,2024-09-04,40,3536.59,Active
+CUST00392,Richard,Smith,customer392@email.com,882-810-1049,7549 Pine Rd,San Antonio,TX,22731,65,2024-12-20,12,4348.53,Inactive
+CUST00393,Richard,Williams,customer393@email.com,193-146-2740,533 Main St,San Jose,MI,51386,66,2023-09-08,25,4730.46,Premium
+CUST00394,Jennifer,Thomas,customer394@email.com,471-677-8876,6150 Elm Dr,San Jose,CA,78670,55,2023-10-20,27,1911.26,Inactive
+CUST00395,Sarah,Wilson,customer395@email.com,364-238-8137,6819 Oak Ave,Austin,VA,94133,57,2023-08-18,28,20.41,Premium
+CUST00396,Amanda,Brown,customer396@email.com,141-749-1972,3685 Park Blvd,Los Angeles,OH,85369,47,2024-02-19,28,1643.57,Active
+CUST00397,Daniel,Johnson,customer397@email.com,137-199-5752,9932 Main St,San Jose,CA,70137,58,2024-03-26,6,3330.87,Active
+CUST00398,Jessica,Taylor,customer398@email.com,912-503-8151,3291 Elm Dr,San Antonio,WA,39505,44,2023-04-06,7,2261.26,Active
+CUST00399,Michelle,Jones,customer399@email.com,733-754-9746,9501 Elm Dr,San Jose,MA,31149,71,2025-06-05,25,389.64,Inactive
+CUST00400,Chris,Moore,customer400@email.com,871-295-7520,4923 Elm Dr,Los Angeles,CA,48197,50,2023-10-08,47,808.62,Active
+CUST00401,Chris,Smith,customer401@email.com,942-698-8734,7803 Pine Rd,Jacksonville,NC,37384,50,2025-04-29,12,882.06,Active
+CUST00402,James,Martin,customer402@email.com,545-659-2751,1507 Oak Ave,San Jose,VA,10214,43,2022-11-25,7,3102.31,Inactive
+CUST00403,Elizabeth,Miller,customer403@email.com,102-237-8818,3475 Elm Dr,Austin,NY,41922,77,2024-09-16,47,159.45,Inactive
+CUST00404,Chris,Martinez,customer404@email.com,949-517-2044,2017 Pine Rd,San Francisco,PA,40163,60,2023-07-07,11,1588.5,Premium
+CUST00405,Helen,Martinez,customer405@email.com,724-615-8307,1196 Park Blvd,Phoenix,MI,57163,75,2024-10-19,10,772.33,Inactive
+CUST00406,Jennifer,Martinez,customer406@email.com,917-180-5428,4339 Oak Ave,Philadelphia,GA,41661,35,2023-03-20,25,4473.08,Inactive
+CUST00407,Emily,Williams,customer407@email.com,494-803-6808,3606 Pine Rd,San Francisco,VA,29179,49,2023-07-03,30,277.05,Active
+CUST00408,David,Martin,customer408@email.com,889-475-8250,3342 Oak Ave,Fort Worth,AZ,97705,20,2025-04-23,3,2854.72,Inactive
+CUST00409,Robert,Hernandez,customer409@email.com,114-964-8790,4119 Park Blvd,Jacksonville,TX,93730,54,2024-07-26,30,429.0,Inactive
+CUST00410,Lisa,Miller,customer410@email.com,958-620-2535,3276 Elm Dr,Los Angeles,CA,81526,80,2022-11-17,5,3534.73,Active
+CUST00411,Jennifer,Wilson,customer411@email.com,578-948-8412,7062 Park Blvd,Houston,FL,70125,58,2023-09-08,46,2045.23,Inactive
+CUST00412,Amanda,Davis,customer412@email.com,109-349-3975,4142 Park Blvd,Fort Worth,WA,76197,74,2024-12-24,46,4418.66,Premium
+CUST00413,David,Thomas,customer413@email.com,976-487-6745,7810 Oak Ave,Houston,NC,32588,64,2022-10-25,37,18.43,Premium
+CUST00414,Sarah,Gonzalez,customer414@email.com,372-327-6583,7744 Elm Dr,Austin,OH,94173,25,2024-10-25,44,1726.02,Active
+CUST00415,Jessica,Gonzalez,customer415@email.com,804-711-6951,906 Pine Rd,Phoenix,PA,60296,56,2022-11-02,4,1552.28,Premium
+CUST00416,Amanda,Moore,customer416@email.com,724-316-5112,4561 Park Blvd,San Diego,PA,94148,38,2025-01-25,31,2462.75,Active
+CUST00417,Jennifer,Smith,customer417@email.com,553-637-2376,895 Oak Ave,Austin,NC,43021,72,2024-09-21,3,284.61,Inactive
+CUST00418,Robert,Miller,customer418@email.com,128-360-7145,8787 Pine Rd,San Diego,IL,47658,22,2025-03-09,48,1355.43,Active
+CUST00419,Richard,Brown,customer419@email.com,692-923-2133,3794 Oak Ave,Austin,GA,98367,32,2023-06-21,38,63.42,Premium
+CUST00420,Chris,Hernandez,customer420@email.com,343-975-7670,6290 Elm Dr,San Antonio,FL,99254,20,2024-08-31,13,4854.66,Inactive
+CUST00421,Amanda,Davis,customer421@email.com,124-546-9081,5334 Elm Dr,Philadelphia,CA,73633,68,2023-05-28,11,1089.98,Inactive
+CUST00422,Robert,Smith,customer422@email.com,543-452-5218,5500 Park Blvd,Fort Worth,NC,33055,49,2024-01-10,8,2732.09,Premium
+CUST00423,Helen,Anderson,customer423@email.com,697-209-1851,8835 Pine Rd,Fort Worth,WA,91410,42,2023-01-01,12,1396.89,Inactive
+CUST00424,Amanda,Garcia,customer424@email.com,892-675-3910,1385 Park Blvd,San Francisco,VA,16690,32,2023-02-21,45,1043.9,Premium
+CUST00425,Jennifer,Johnson,customer425@email.com,441-193-6764,3211 Park Blvd,New York,WA,86512,77,2023-03-04,21,1443.76,Inactive
+CUST00426,Ashley,Thomas,customer426@email.com,429-887-8318,7723 Elm Dr,San Jose,OH,95969,47,2022-11-17,20,4909.16,Inactive
+CUST00427,Robert,Taylor,customer427@email.com,279-474-4928,2357 Oak Ave,San Antonio,NY,73558,34,2022-10-31,42,1171.95,Premium
+CUST00428,Michael,Williams,customer428@email.com,913-804-1525,6682 Oak Ave,Phoenix,WA,68852,48,2024-06-27,32,3396.45,Inactive
+CUST00429,Ashley,Johnson,customer429@email.com,858-914-5903,9462 Main St,San Jose,TX,98846,39,2023-04-16,10,4143.49,Inactive
+CUST00430,Ashley,Martin,customer430@email.com,206-150-1826,8349 Park Blvd,Fort Worth,FL,87183,18,2024-03-08,25,4524.25,Inactive
+CUST00431,Michelle,Martin,customer431@email.com,686-576-6138,168 Main St,San Diego,AZ,27816,68,2024-10-24,21,4795.04,Premium
+CUST00432,Amanda,Jackson,customer432@email.com,905-309-2429,2370 Elm Dr,Austin,MA,56270,71,2025-04-20,30,1392.36,Inactive
+CUST00433,Robert,Hernandez,customer433@email.com,537-116-3881,3150 Park Blvd,San Diego,CA,91850,19,2025-01-12,12,2750.59,Inactive
+CUST00434,Amanda,Martin,customer434@email.com,501-758-5974,1695 Pine Rd,San Antonio,OH,31052,41,2025-05-14,22,1948.57,Inactive
+CUST00435,Emily,Johnson,customer435@email.com,976-315-1905,2711 Main St,San Diego,CA,15399,38,2025-01-31,35,3628.94,Inactive
+CUST00436,Elizabeth,Wilson,customer436@email.com,389-640-5734,2846 Elm Dr,San Francisco,FL,49807,65,2024-09-12,33,3517.23,Active
+CUST00437,Matthew,Miller,customer437@email.com,677-973-8139,6705 Oak Ave,Jacksonville,GA,83214,20,2024-12-14,46,1934.17,Active
+CUST00438,Jessica,Thomas,customer438@email.com,257-410-1882,2222 Oak Ave,Philadelphia,MI,63877,26,2025-04-11,28,826.1,Premium
+CUST00439,Sarah,Martin,customer439@email.com,297-989-7064,5954 Main St,Columbus,WA,93812,54,2024-12-30,21,3049.14,Premium
+CUST00440,David,Gonzalez,customer440@email.com,620-169-9810,6234 Main St,San Jose,NY,85480,21,2024-09-21,38,2745.78,Inactive
+CUST00441,Emily,Miller,customer441@email.com,221-483-6411,6785 Main St,Chicago,AZ,39137,29,2025-01-09,25,3798.97,Active
+CUST00442,Emily,Smith,customer442@email.com,454-931-5423,5051 Oak Ave,Houston,GA,36746,23,2022-11-05,5,1530.29,Active
+CUST00443,Michelle,Brown,customer443@email.com,186-732-2050,762 Oak Ave,Philadelphia,NC,13193,75,2025-01-14,10,716.04,Active
+CUST00444,Michelle,Moore,customer444@email.com,643-821-2341,9271 Oak Ave,Chicago,AZ,65616,55,2025-02-22,16,4030.59,Active
+CUST00445,Chris,Garcia,customer445@email.com,958-609-8966,6655 Elm Dr,San Antonio,CA,67162,34,2023-07-16,29,2819.56,Active
+CUST00446,Sarah,Garcia,customer446@email.com,385-647-3977,9769 Elm Dr,San Diego,FL,37331,20,2025-01-06,10,1881.65,Active
+CUST00447,Chris,Wilson,customer447@email.com,857-200-7644,2109 Main St,San Francisco,WA,71353,70,2023-02-05,23,3574.69,Premium
+CUST00448,John,Gonzalez,customer448@email.com,199-712-5384,7187 Pine Rd,Columbus,NC,52727,61,2025-06-04,39,3964.52,Inactive
+CUST00449,William,Williams,customer449@email.com,404-648-8254,3297 Elm Dr,Chicago,VA,39252,66,2024-06-13,25,253.73,Active
+CUST00450,Amanda,Johnson,customer450@email.com,620-215-9164,5930 Pine Rd,San Jose,NJ,27236,71,2024-06-06,3,3491.16,Inactive
+CUST00451,Ashley,Taylor,customer451@email.com,183-159-5461,8855 Pine Rd,Phoenix,IL,60560,38,2024-06-06,35,79.84,Inactive
+CUST00452,Amanda,Rodriguez,customer452@email.com,171-918-1781,1839 Oak Ave,Los Angeles,OH,57826,74,2025-06-17,4,108.92,Premium
+CUST00453,Richard,Martinez,customer453@email.com,733-457-6877,127 Park Blvd,Fort Worth,NC,23567,68,2022-12-29,47,1869.14,Active
+CUST00454,Helen,Wilson,customer454@email.com,785-535-3249,6146 Pine Rd,Columbus,NJ,18421,74,2022-12-24,26,1500.11,Inactive
+CUST00455,James,Lopez,customer455@email.com,573-582-7738,6955 Oak Ave,Austin,CA,42296,62,2025-02-14,40,75.61,Inactive
+CUST00456,Richard,Martinez,customer456@email.com,904-196-2032,9587 Main St,San Francisco,AZ,61006,26,2024-10-21,43,3663.47,Premium
+CUST00457,James,Anderson,customer457@email.com,354-497-1847,5679 Park Blvd,Houston,NY,88613,70,2023-05-05,15,3828.35,Inactive
+CUST00458,John,Martin,customer458@email.com,439-843-3951,2174 Oak Ave,Fort Worth,NC,41440,46,2024-07-13,9,4842.59,Premium
+CUST00459,Matthew,Brown,customer459@email.com,926-670-7393,5277 Main St,Houston,FL,75199,53,2024-12-12,19,1315.34,Premium
+CUST00460,Matthew,Rodriguez,customer460@email.com,145-908-3000,9398 Oak Ave,New York,WA,38181,47,2022-12-05,25,3981.36,Active
+CUST00461,Matthew,Jones,customer461@email.com,274-672-4725,6928 Elm Dr,Austin,NJ,89946,34,2024-07-11,38,847.43,Premium
+CUST00462,Chris,Martinez,customer462@email.com,667-337-8233,4407 Park Blvd,Chicago,OH,98420,42,2024-12-09,39,1602.33,Premium
+CUST00463,Michelle,Moore,customer463@email.com,698-679-7065,9945 Elm Dr,Jacksonville,WA,76200,18,2024-11-24,17,1778.22,Inactive
+CUST00464,Ashley,Thomas,customer464@email.com,444-233-7495,327 Main St,Fort Worth,GA,12519,73,2023-01-28,36,3756.7,Premium
+CUST00465,Jessica,Martinez,customer465@email.com,490-741-8711,8123 Pine Rd,New York,AZ,95968,22,2023-10-12,18,2594.55,Inactive
+CUST00466,Jessica,Williams,customer466@email.com,829-446-9037,7179 Elm Dr,Dallas,IL,58452,54,2024-10-01,18,4788.33,Active
+CUST00467,Amanda,Martin,customer467@email.com,159-744-7021,968 Pine Rd,San Antonio,NC,28798,32,2025-06-25,31,1030.58,Active
+CUST00468,Ashley,Martinez,customer468@email.com,756-132-9948,4977 Oak Ave,Jacksonville,PA,40437,57,2024-04-21,35,4391.57,Premium
+CUST00469,Jessica,Garcia,customer469@email.com,138-451-3391,2032 Park Blvd,San Jose,AZ,88909,78,2024-09-25,31,98.84,Inactive
+CUST00470,Jennifer,Moore,customer470@email.com,150-968-5546,6552 Main St,Chicago,VA,40950,27,2024-06-12,43,2188.5,Inactive
+CUST00471,Lisa,Brown,customer471@email.com,127-203-7695,2831 Park Blvd,Houston,NY,64902,77,2025-03-07,50,1487.11,Premium
+CUST00472,Sarah,Jackson,customer472@email.com,912-835-9713,9341 Pine Rd,New York,NC,98710,66,2023-10-14,41,2969.71,Premium
+CUST00473,Matthew,Jones,customer473@email.com,773-151-7803,8506 Pine Rd,Columbus,CA,58906,69,2024-04-09,34,4785.51,Inactive
+CUST00474,Daniel,Brown,customer474@email.com,438-715-5031,1155 Elm Dr,Los Angeles,FL,38589,50,2025-02-08,16,727.1,Premium
+CUST00475,Jennifer,Moore,customer475@email.com,252-905-9770,7905 Main St,Fort Worth,FL,61662,19,2023-03-14,20,2642.26,Premium
+CUST00476,Lisa,Miller,customer476@email.com,319-854-5756,2316 Pine Rd,Columbus,PA,39769,30,2023-01-25,2,2160.41,Inactive
+CUST00477,John,Wilson,customer477@email.com,779-359-3754,2171 Oak Ave,Phoenix,NC,41995,40,2023-12-25,5,1695.31,Inactive
+CUST00478,Amanda,Smith,customer478@email.com,445-856-1577,7326 Pine Rd,San Jose,NJ,65611,21,2024-11-28,4,1396.65,Inactive
+CUST00479,Elizabeth,Martinez,customer479@email.com,344-892-7414,1386 Main St,Fort Worth,NY,17331,79,2025-01-20,20,2997.12,Inactive
+CUST00480,Amanda,Gonzalez,customer480@email.com,348-520-2012,6099 Pine Rd,San Jose,IL,83038,22,2024-12-03,31,73.34,Inactive
+CUST00481,Amanda,Gonzalez,customer481@email.com,589-341-8999,8232 Elm Dr,Philadelphia,WA,83891,62,2024-12-20,14,3487.86,Premium
+CUST00482,James,Jones,customer482@email.com,215-371-6721,3762 Oak Ave,Houston,IL,18843,19,2024-01-11,19,2605.93,Active
+CUST00483,Chris,Miller,customer483@email.com,546-884-7475,834 Pine Rd,Chicago,NJ,72440,48,2025-06-17,15,1445.39,Premium
+CUST00484,Ashley,Rodriguez,customer484@email.com,679-681-3050,634 Elm Dr,Houston,MI,84085,38,2024-05-27,26,1150.55,Active
+CUST00485,Matthew,Jackson,customer485@email.com,236-645-3811,1215 Elm Dr,Philadelphia,IL,78384,47,2022-11-17,29,3402.72,Active
+CUST00486,Jessica,Williams,customer486@email.com,741-935-9280,4698 Pine Rd,Dallas,NJ,77677,22,2025-02-06,12,12.29,Active
+CUST00487,Helen,Moore,customer487@email.com,798-193-2968,8862 Oak Ave,Dallas,MI,69213,58,2023-10-24,33,3277.02,Premium
+CUST00488,Sarah,Gonzalez,customer488@email.com,933-970-9870,8147 Elm Dr,New York,AZ,77873,42,2025-05-18,15,1923.42,Inactive
+CUST00489,Ashley,Johnson,customer489@email.com,317-579-4565,8506 Oak Ave,San Antonio,GA,67225,19,2023-04-30,14,4992.32,Inactive
+CUST00490,Richard,Taylor,customer490@email.com,945-352-1805,7588 Main St,San Jose,NY,51709,79,2024-05-25,18,1945.93,Premium
+CUST00491,Chris,Lopez,customer491@email.com,129-280-6372,4156 Oak Ave,San Antonio,VA,21167,45,2024-12-18,44,4834.39,Active
+CUST00492,Richard,Martin,customer492@email.com,231-410-2545,6224 Main St,Dallas,MI,73526,38,2025-06-05,44,25.97,Inactive
+CUST00493,William,Davis,customer493@email.com,819-350-8846,5032 Oak Ave,Fort Worth,PA,46364,78,2022-10-28,27,1237.13,Inactive
+CUST00494,James,Lopez,customer494@email.com,960-924-5709,5075 Oak Ave,Dallas,OH,73093,40,2023-08-16,18,4490.19,Active
+CUST00495,Amanda,Hernandez,customer495@email.com,357-945-2251,5753 Main St,San Francisco,OH,24635,58,2024-10-01,50,4074.24,Premium
+CUST00496,Michael,Anderson,customer496@email.com,845-546-9467,2886 Elm Dr,Fort Worth,GA,86489,53,2022-11-20,42,3174.8,Inactive
+CUST00497,James,Smith,customer497@email.com,897-866-7041,1760 Main St,Chicago,PA,52661,29,2024-12-15,11,1957.05,Active
+CUST00498,Richard,Gonzalez,customer498@email.com,758-267-5827,679 Park Blvd,Chicago,IL,49791,53,2023-03-09,38,2452.46,Premium
+CUST00499,Sarah,Brown,customer499@email.com,134-797-5266,8803 Elm Dr,Houston,MA,89823,24,2025-06-05,37,3088.09,Active
+CUST00500,Daniel,Martin,customer500@email.com,208-990-1771,6897 Pine Rd,Columbus,IL,65843,23,2024-09-18,40,119.72,Premium

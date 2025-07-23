@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customers>
+  <customer>
+    <customer_id>CUST00001</customer_id>
+    <first_name>Helen</first_name>
+    <last_name>Anderson</last_name>
+    <email>customer1@email.com</email>
+    <phone>251-485-8588</phone>
+    <address>5601 Main St</address>
+    <city>Los Angeles</city>
+    <state>IL</state>
+    <zip_code>67246</zip_code>
+    <age>74</age>
+    <registration_date>2023-07-27</registration_date>
+    <total_orders>6</total_orders>
+    <total_spent>149.72</total_spent>
+    <customer_status>Premium</customer_status>
+  </customer>
+  <customer>
+    <customer_id>CUST00002</customer_id>
+    <first_name>Elizabeth</first_name>
+    <last_name>Hernandez</last_name>
+    <email>customer2@email.com</email>
+    <phone>265-166-2724</phone>
+    <address>5621 Main St</address>
+    <city>Phoenix</city>
+    <state>OH</state>
+    <zip_code>62824</zip_code>
+    <age>18</age>
+    <registration_date>2025-04-14</registration_date>
+    <total_orders>38</total_orders>
+    <total_spent>3067.78</total_spent>
+    <customer_status>Inactive</customer_status>
+  </customer>
+  <customer>
+    <customer_id>CUST00003</customer_id>
+    <first_name>Amanda</first_name>
+    <last_name>Rodriguez</last_name>
+    <email>customer3@email.com</email>
+    <phone>754-214-7731</phone>
+    <address>6831 Park Blvd</address>
+    <city>San Jose</city>
+    <state>GA</state>
+    <zip_code>57714</zip_code>
+    <age>49</age>
+    <registration_date>2024-08-26</registration_date>
+    <total_orders>2</total_orders>
+    <total_spent>3158.6</total_spent>
+    <customer_status>Premium</customer_status>
+  </customer>
+  <customer>
+    <customer_id>CUST00004</customer_id>
+    <first_name>Elizabeth</first_name>
+    <last_name>Miller</last_name>
+    <email>customer4@email.com</email>
+    <phone>540-934-4931</phone>
+    <address>1717 Oak Ave</address>
+    <city>San Jose</city>
+    <state>OH</state>
+    <zip_code>72599</zip_code>
+    <age>69</age>
+    <registration_date>2023-09-25</registration_date>
+    <total_orders>27</total_orders>
+    <total_spent>3989.49</total_spent>
+    <customer_status>Inactive</customer_status>
+  </customer>
+  <customer>
+    <customer_id>CUST00005</customer_id>
+    <first_name>Sarah</first_name>
+    <last_name>Martinez</last_name>
+    <email>customer5@email.com</email>
+    <phone>993-737-5879</phone>
+    <address>2313 Oak Ave</address>
+    <city>Fort Worth</city>
+    <state>WA</state>
+    <zip_code>12242</zip_code>
+    <age>25</age>
+    <registration_date>2023-02-28</registration_date>
+    <total_orders>50</total_orders>
+    <total_spent>4246.6</total_spent>
+    <customer_status>Active</customer_status>
+  </customer>
+  <customer>
+    <customer_id>CUST00006</customer_id>
+    <first_name>Matthew</first_name>
+    <last_name>Martin</last_name>
+    <email>customer6@email.com</email>
+    <phone>665-249-1081</phone>
+    <address>4019 Elm Dr</address>
+    <city>Phoenix</city>
+    <state>GA</state>
+    <zip_code>64841</zip_code>
+    <age>37</age>
+    <registration_date>2024-03-17</registration_date>
+    <total_orders>27</total_orders>
+    <total_spent>2573.4</total_spent>
+    <customer_status>Active</customer_status>
+  </customer>
+  <customer>
+    <customer_id>CUST00007</customer_id>
+    <first_name>William</first_name>
+    <last_name>Jackson</last_name>
+    <email>customer7@email.com</email>
+    <phone>316-990-5456</phone>
+    <address>693 Pine Rd</address>
+    <city>Philadelphia</city>
+    <state>IL</state>
+    <zip_code>78581</zip_code>
+    <age>47</age>
+    <registration_date>2023-01-22</registration_date>
+    <total_orders>32</total_orders>
+    <total_spent>2489.04</total_spent>
+    <customer_status>Active</customer_status>
+  </customer>
+  <customer>
+    <customer_id>CUST00008</customer_id>
+    <first_name>Robert</first_name>
+    <last_name>Garcia</last_name>
+    <email>customer8@email.com</email>
+    <phone>894-181-7480</phone>
+    <address>4347 Park Blvd</address>
+    <city>Phoenix</city>
+    <state>TX</state>
+    <zip_code>68340</zip_code>
+    <age>30</age>
+    <registration_date>2025-01-12</registration_date>
+    <total_orders>6</total_orders>
+    <total_spent>809.63</total_spent>
+    <customer_status>Premium</customer_status>
+  </customer>
+  <customer>
+    <customer_id>CUST00009</customer_id>
+    <first_name>Michelle</first_name>
+    <last_name>Gonzalez</last_name>
+    <email>customer9@email.com</email>
+    <phone>651-728-6330</phone>
+    <address>3987 Pine Rd</address>
+    <city>San Jose</city>
+    <state>NY</state>
+    <zip_code>32576</zip_code>
+    <age>27</age>
+    <registration_date>2025-06-13</registration_date>
+    <total_orders>22</total_orders>
+    <total_spent>702.75</total_spent>
+    <customer_status>Inactive</customer_status>
+  </customer>
+  <customer>
+    <customer_id>CUST00010</customer_id>
+    <first_name>Ashley</first_name>
+    <last_name>Martinez</last_name>
+    <email>customer10@email.com</email>
+    <phone>901-116-4896</phone>
+    <address>4488 Park Blvd</address>
+    <city>Columbus</city>
+    <state>NJ</state>
+    <zip_code>46775</zip_code>
+    <age>55</age>
+    <registration_date>2024-07-28</registration_date>
+    <total_orders>10</total_orders>
+    <total_spent>3871.04</total_spent>
+    <customer_status>Premium</customer_status>
+  </customer>
+</customers>
