@@ -1,0 +1,62 @@
+ NYC Yellow Taxi Data Analysis Project  
+Exploring Data-Driven Insights Using Azure Databricks & PySpark
+ 🚖 Project Highlights
+
+- Analyzed millions of NYC taxi trips to unlock business insights!
+- Hands-on big data experience:From raw CSV uploads to Cloud, to high-speed Spark computations.
+- Discovered the “pulse” of NYC: Best earning vendors, busiest routes, and real-time passenger flows.
+
+ What Was Done and Why
+
+ Project Objective
+
+To transform massive raw New York City Yellow Taxi data (January 2020) into actionable insights, demonstrating the power of cloud platforms and distributed data analytics.
+
+Step-by-Step Journey
+
+1.Cloud Storage Setup:
+   - Uploaded the huge taxi CSV file to Azure Data Lake Storage—no storage headaches, instant scalability!
+
+2. Databricks Power:
+   - Launched a Spark cluster in Azure Databricks—making heavy lifting with big data quick and easy.
+
+3. PySpark Data Wrangling:
+   - Imported the data into Spark as a DataFrame for super-fast analysis.
+ 🚦 Key Insights Unlocked
+
+- Created a “Revenue” Column:
+  Instantly viewed total earnings per trip by combining all fare and surcharge fields.
+
+- Uncovered NYC’s Busiest Pickup Zones:
+  Ranked all city areas by where the most passengers started their journeys—perfect for targeting business opportunities.
+
+- Compared Vendor Performance:
+  Calculated and compared average fare and total earnings for each taxi company, spotlighting top performers.
+
+- Mapped Payment Preferences:
+  Broke down payment types (credit, cash, etc.) to reveal how New Yorkers (and visitors) prefer to pay.
+
+- Identified Top Vendors on a Chosen Day:
+  Pinpointed which companies made the most money and carried the most passengers on a busy day.
+
+- Revealed Most Popular Taxi Routes:
+  Found the pickup-dropoff pairs moving the greatest number of people—urban mobility in action!
+
+- Simulated Real-Time City Heatmap: 
+  Demonstrated, in a 10-second slice, which pickup locations had surges in passengers—like a city coming alive!
+
+ 🔥 What Makes This Project Special?
+
+- Transforms “boring rows” into GOLD—business strategies, operational knowledge, and city planning material.
+- Mastered state-of-the-art cloud tools: Microsoft Azure + Databricks + PySpark.
+- Showcases end-to-end skills: Data ingestion, transformation, big data querying, aggregation, and insight generation—start to finish!
+✨ Skills & Experience Gained
+
+- Handling real-world, messy, big datasets with ease.
+- Cloud storage management and Spark cluster setup.
+- Efficient querying and aggregation on millions of records with PySpark.
+- Translating raw numbers into actionable, business-friendly knowledge.
+
+Conclusion
+
+This project proves the value of combining modern cloud storage solutions with distributed analytics. With PySpark and Azure, massive NYC taxi data became a rich “story” of city life and business—and you learned how to tell that story, one query at a time!
